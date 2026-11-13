@@ -95,7 +95,3 @@ These are open problems in the current code:
 - **FER-2013** — 35,887 grayscale 48×48 face images, 7 classes (in-the-wild, imbalanced: only 547 *disgust* samples)
 - **CK+** — ~900 face-cropped 48×48 images, 7 classes (posed, controlled conditions; the *contempt* class is removed)
 
-## Credits
-
-Based on the original project by [aymanerihane](https://github.com/aymanerihane/Real-Time-Face-Expression-Recognition).
-Built with TensorFlow / Keras, OpenCV, MediaPipe and Streamlit.
